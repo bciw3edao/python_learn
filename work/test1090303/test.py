@@ -1,7 +1,0 @@
-intA = int(eval(input("input number a:")))
-b = eval(input("input number b:"))
-print('a+b=', intA + b)
-print('a-b=', a - b)
-print('a*b=', a * b)
-print('a/b=', a / b)
-print('a%b=', a % b)

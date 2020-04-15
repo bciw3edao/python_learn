@@ -1,0 +1,17 @@
+l = [1, 1, 2, 2, 3, 3, 4, 4, 0, 0]
+print(l.count(1))
+print(l.index(2))
+l.reverse()
+print(l)
+print(l[::-1])
+l.sort()
+print(l)
+l.sort(reverse=True)
+print(l)
+print(sum(l), max(l), min(l), sep=',')
+l = [1, 1, 2, 2, 3, 3, 4, 4, 0, 0]
+sortedList = sorted(l)
+print(l)
+print(sortedList)
+sortedList = sorted(l, reverse=True)
+print(sortedList)
