@@ -5,7 +5,6 @@ try:
 except:
     print('exception:1')
     import sys
-
     exception = sys.exc_info()
     print(type(exception))
     print(exception)

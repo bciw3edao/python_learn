@@ -1,0 +1,7 @@
+<Employees>
+    <Employee>
+        <id>1</id>
+        <name>Mary</name>
+    </Employee>
+    <Employee id="2" name="Jhon"/>
+</Employees>
