@@ -6,4 +6,5 @@ print(emp, type(emp))
 import json
 
 jsonRep = json.dumps(emp)
-print(jsonRep, type(jsonRep))
+print(jsonRep,type(jsonRep))
+

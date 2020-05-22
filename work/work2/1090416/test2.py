@@ -5,7 +5,7 @@ with open(r'..\txt\aa.txt') as f:
     next(data1)
     for y in data1:
         print(y)
-    f.seek(0)  # 移動標頭
+    f.seek(0)#移動標頭
     data = csv.reader(f)
     print(type(data))
     for x in list(data)[1:]:

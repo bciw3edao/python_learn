@@ -2,5 +2,5 @@
 a = 1
 b = 2
 print(a, '+', b, '=', a + b, sep='')
-print('Hallo ', end='', flush=True)
+print('Hallo ', end='',flush=True)
 print(' world')

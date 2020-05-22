@@ -5,5 +5,5 @@ print(arr)
 print(arr[0])
 print(arr[[0, 2, 4]])
 # Mask index
-a = 1
-print(arr[[True, False, True, False, True if a != 0 else False]])
+a=1
+print(arr[[True, False, True, False,True if a!=0 else False]])

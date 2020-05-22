@@ -1,0 +1,20 @@
+import numpy as np
+分隔線 = '--------------------------------'
+arr = np.arange(1, 10).reshape(3, 3)
+print(arr)
+print(分隔線)
+print(arr[:2, :1], arr[:2, :1].shape, sep='\n')
+print(分隔線)
+print(arr[2], arr[2].shape, sep='\n')
+print(分隔線)
+print(arr[2, :], arr[2, :].shape, sep='\n')
+print(分隔線)
+print(arr[2:, :], arr[2:, :].shape, sep='\n')
+print(分隔線)
+print(arr[:, :2], arr[:, :2].shape, sep='\n')
+print(分隔線)
+print(arr[1, :2], arr[1, :2].shape, sep='\n')
+print(分隔線)
+print(arr[1:2, :2], arr[1:2, :2].shape, sep='\n')
+print(分隔線)
+

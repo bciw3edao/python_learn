@@ -12,8 +12,8 @@ i = 0
 for str in arr:
     if str[0] == key:
         print(str)
-        i += 1
+        i+=1
 else:
-    print('Notfind\n' if i == 0 else '', end='')
+    print('Notfind\n'if i==0 else '',end='')
 
 # print(arr[arr >= key] if arr[arr >= key].size != 0 else 'NotFind')

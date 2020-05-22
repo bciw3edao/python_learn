@@ -8,6 +8,6 @@ elif c == 2:
 elif c == 3:
     print(f"Style(3):{a}+{b}={a + b}")
 elif c == 4:
-    print('Style(1):', a, '+', b, '=', a + b, sep='')
+    print('Style(1):',a, '+', b, '=', a + b, sep='')
 else:
     print('Style_Choose_error')

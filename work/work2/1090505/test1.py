@@ -1,6 +1,5 @@
 import numpy as np
-
-weight = np.array([96, 87, 110])
+weight=np.array([96,87,110])
 print(weight.mean())
 print(np.mean(weight))
 print(weight.std())

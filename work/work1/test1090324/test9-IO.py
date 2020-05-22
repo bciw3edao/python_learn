@@ -20,7 +20,7 @@ with open(r'/work1/text/text1.txt') as f:
     all = f.readlines()
     print(type(all))
     for x in all:
-        print(x, sep='', end='\n')
+        print(x,sep='',end='\n')
     # f.close()
     print('close?', f.closed)
 print('close?', f.closed)

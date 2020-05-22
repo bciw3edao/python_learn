@@ -1,6 +1,6 @@
 id = 'A111111111'
-print('EX ID:', id)
-id = input('input ID:')
+print('EX ID:',id)
+id=input('input ID:')
 if len(id) == 10:
     print('ID長度正確')
     if id.isupper():
@@ -14,7 +14,6 @@ if len(id) == 10:
                 print('性別偵測錯誤\n請重新輸入ID')
         else:
             print('ID後九碼皆為數字\n請重新輸入ID')
-    else:
-        print('ID字首英文為大寫\n請重新輸入ID')
+    else:print('ID字首英文為大寫\n請重新輸入ID')
 else:
     print('ID輸入錯誤(長度錯誤)')

@@ -4,7 +4,7 @@ while True:
     fraction = int(input('請輸入分數:'))
     if fraction <= -1: break
     l.append(fraction)
-    # l +=[fraction]
+    #l +=[fraction]
 
 print('分數清單:', l)
 average = sum(l) / len(l)
