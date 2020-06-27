@@ -1,0 +1,8 @@
+float_a = float(input('請輸入浮點數:'))
+float_b = float(input('請輸入浮點數:'))
+float_c = float(input('請輸入浮點數:'))
+float_d = float(input('請輸入浮點數:'))
+print(('|%7.2f %7.2f|') % (float_a, float_b))
+print(('|%7.2f %7.2f|') % (float_c, float_d))
+print(('|%-7.2f %-7.2f|') % (float_a, float_b))
+print(('|%-7.2f %-7.2f|') % (float_c, float_d))

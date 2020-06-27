@@ -1,0 +1,8 @@
+str_a = str(input())
+str_b = str(input())
+str_c = str(input())
+str_d = str(input())
+print(('|%10s %10s|') % (str_a, str_b))
+print(('|%10s %10s|') % (str_c, str_d))
+print(('|%-10s %-10s|') % (str_a, str_b))
+print(('|%-10s %-10s|') % (str_c, str_d))

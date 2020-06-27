@@ -1,0 +1,8 @@
+int_a = int(input('請輸入整數:'))
+int_b = int(input('請輸入整數:'))
+int_c = int(input('請輸入整數:'))
+int_d = int(input('請輸入整數:'))
+print(('|%5d %5d|') % (int_a, int_b))
+print(('|%5d %5d|') % (int_c, int_d))
+print(('|%-5d %-5d|') % (int_a, int_b))
+print(('|%-5d %-5d|') % (int_c, int_d))

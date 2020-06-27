@@ -1,0 +1,5 @@
+num1 = str(input())
+num2 = str(input())
+num00 = str(input())
+num0 = eval(num1 + num00 + num2)
+print(num0)
