@@ -23,15 +23,15 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Users\void_\Documents\GitHub\python_learn\work\work3\PYD9" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\Users\void_\Documents\GitHub\python_learn\work\work3" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\void_\Documents\GitHub\python_learn\work\work3\PYD9" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.PYD9100 (1)">
-    <configuration name="PYD102" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.PYD810">
+    <configuration name="PYD704" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -39,11 +39,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work3/PYD1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work3/PYD7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work3/PYD1/PYD102.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work3/PYD7/PYD704.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -52,7 +52,70 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="PYD910" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PYD706" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work3/PYD7" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work3/PYD7/PYD706.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PYD808" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work3/PYD8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work3/PYD8/PYD808.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PYD810" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="work" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work3/PYD8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work3/PYD8/PYD810.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PYD909" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="work" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,28 +127,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Users\void_\Documents\GitHub\python_learn\work\work3\PYD9\PYD910.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="PYD9100" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work3/PYD9" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Users\void_\Documents\GitHub\python_learn\work\work3\PYD9\PYD9100.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work3/PYD9/PYD909.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,34 +178,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="work" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/work2/1090514" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/work2/1090514/test3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.PYD9100 (1)" />
-        <item itemvalue="Python.PYD910" />
-        <item itemvalue="Python.PYD9100" />
-        <item itemvalue="Python.PYD102" />
-        <item itemvalue="Python.test3" />
+        <item itemvalue="Python.PYD810" />
+        <item itemvalue="Python.PYD808" />
+        <item itemvalue="Python.PYD706" />
+        <item itemvalue="Python.PYD704" />
+        <item itemvalue="Python.PYD909" />
       </list>
     </recent_temporary>
   </component>
@@ -185,38 +206,42 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1593241769824" />
-    <state width="826" height="222" key="GridCell.Tab.0.bottom" timestamp="1593321689961">
+    <state x="174" y="176" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1595561086513">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.0.center" timestamp="1593321689961">
+    <state x="174" y="176" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1595561086513" />
+    <state width="826" height="221" key="GridCell.Tab.0.bottom" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.0.left" timestamp="1593321689961">
+    <state width="826" height="221" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.0.center" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.0.right" timestamp="1593321689961">
+    <state width="826" height="221" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.0.left" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.1.bottom" timestamp="1593321689961">
+    <state width="826" height="221" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.0.right" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.1.center" timestamp="1593321689961">
+    <state width="826" height="221" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.1.bottom" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.1.left" timestamp="1593321689961">
+    <state width="826" height="221" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.1.center" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
-    <state width="826" height="222" key="GridCell.Tab.1.right" timestamp="1593321689961">
+    <state width="826" height="221" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.1.left" timestamp="1595570136291">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="826" height="222" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1593321689961" />
+    <state width="826" height="221" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
+    <state width="826" height="221" key="GridCell.Tab.1.right" timestamp="1595570136291">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="826" height="221" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1595570136291" />
     <state x="0" y="9" key="SettingsEditor" timestamp="1593241683272">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

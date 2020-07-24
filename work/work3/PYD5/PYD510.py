@@ -1,6 +1,7 @@
 # TODO
 user_input = eval(input())
 
+
 def compute(user_input):
     num1 = 0
     num2 = 1
@@ -13,5 +14,6 @@ def compute(user_input):
             num2 += num1
             print(num2, end=' ')
 
-if user_input>=2:
+
+if user_input >= 2:
     compute(user_input)
